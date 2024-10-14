@@ -9,4 +9,4 @@ jre\bin\java -jar BurpLoaderKeygen.jar
 ```
 
 Tại Cửa sổ KeyLoader, tích chọn **Auto Run** và **Ignore Update,** custom tên **License text** nếu muốn sau đó **Run** để khởi chạy Burp Suite
-https://datasecurity.viettel.vn/s/ht7dx9YXUzShmKg/app-release-test-apk
+
